@@ -1,0 +1,30 @@
+{
+  "name": "canvas",
+  "version": "1.0.0",
+  "description": "canavs",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/wang-panfeng/canvas.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/wang-panfeng/canvas/issues"
+  },
+  "homepage": "https://github.com/wang-panfeng/canvas#readme",
+  "dependencies": {
+    "-": "0.0.1",
+    "g": "^2.0.1",
+    "npm": "^6.14.5"
+  },
+  "devDependencies": {
+    "eslint": "^7.3.0",
+    "eslint-config-airbnb-base": "^14.2.0",
+    "eslint-plugin-import": "^2.21.2",
+    "parcel-bundler": "^1.12.4"
+  }
+}
