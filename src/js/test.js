@@ -4,5 +4,6 @@ export default {
         div.innerHTML = 'Hello world'
         document.body.appendChild(div);
 
+
     }
 }
